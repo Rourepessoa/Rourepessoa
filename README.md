@@ -1,27 +1,34 @@
-Olá!
-Sou estudante de Ciência da Computação, apaixonado por tecnologia e por criar soluções criativas e funcionais.
+## Olá, sou o Roure
 
-Atualmente, meu foco de estudo e desenvolvimento está voltado para o Frontend, para a criação de boas experiências de usuário (UX/UI) e para a área de Cibersegurança.
+Estudante de Ciência da Computação na UNP (2º semestre), com foco em
+desenvolvimento back-end e web e interesse em cibersegurança. Trabalho
+com Java e JavaScript, e uso Git no dia a dia para versionamento e
+organização de projetos.
 
-Minhas Habilidades e Ferramentas
-Linguagens: Java, JavaScript
+Tenho experiência prática integrando ferramentas de IA ao fluxo de
+desenvolvimento, o que me permite prototipar e validar ideias com mais
+agilidade.
 
-Frontend: CSS, HTML
+**Tecnologias**
+- Java
+- JavaScript (ES6+)
+- HTML / CSS
+- Git & GitHub
 
-Design: UX/UI Design
+**Áreas de estudo**
+- Cibersegurança e segurança de aplicações
+- Programação orientada a objetos
+- Estruturas de dados
 
-Versionamento: Git
+**Idiomas**
+- Português — nativo
+- Inglês — B1 (leitura técnica e documentação)
 
-Outras Tecnologias: Claude, Cibersegurança
+**Atualmente**
+Aprofundando fundamentos de desenvolvimento seguro e boas práticas de
+código, enquanto desenvolvo projetos próprios para consolidar a prática.
 
-Sobre mim
-Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web, interfaces e segurança da informação.
-
-Sempre buscando aprender novas tecnologias, dominar ferramentas como o Claude e aplicar boas práticas de programação e versionamento com Git.
-
-Me pergunte sobre: Lógica de programação, Frontend, Design de Interfaces e Cibersegurança.
-
-Como me encontrar
-LinkedIn: [https://www.linkedin.com/in/roure-pessoa-21b416412/?skipRedirect=true]
+**Contato**
+[LinkedIn](https://www.linkedin.com/in/roure-pessoa-21b416412/)
 
 E-mail: [roure007@gmail.com]
