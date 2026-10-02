@@ -1,32 +1,13 @@
-## Olá, sou o Roure
+Sou desenvolvedor back-end com foco em JavaScript, construção de APIs e segurança de aplicações.
 
-Estudante de Ciência da Computação na UNP (2º semestre), com foco em
-desenvolvimento back-end e web e interesse em cibersegurança. Trabalho
-com Java e JavaScript, e uso Git no dia a dia para versionamento e
-organização de projetos.
+Gosto de criar sistemas sólidos e bem estruturados, aplicando boas práticas de segurança desde a primeira linha de código. Tenho base em UI/UX, o que me permite entender a aplicação de ponta a ponta e construir back-ends que realmente servem bem a quem usa o produto.
 
-Tenho experiência prática integrando ferramentas de IA ao fluxo de
-desenvolvimento, o que me permite prototipar e validar ideias com mais
-agilidade.
+Também trabalho com integração de inteligência artificial em aplicações, explorando como a IA pode automatizar processos, enriquecer funcionalidades e entregar soluções mais inteligentes.
 
-**Tecnologias**
-- Java
-- JavaScript (ES6+)
-- HTML / CSS
-- Git & GitHub
+Hoje venho aprofundando meus estudos em segurança da informação: redes e protocolos (TCP/IP, DNS, HTTP/HTTPS), Linux, Python para automação e as vulnerabilidades mais comuns em aplicações web, com base no OWASP Top 10. Pratico em laboratórios e desafios do tipo CTF e meu objetivo é me especializar em AppSec, unindo desenvolvimento e segurança para construir aplicações mais seguras desde a arquitetura.
 
-**Áreas de estudo**
-- Cibersegurança e segurança de aplicações
-- Programação orientada a objetos
-- Estruturas de dados
+Estou aberto a oportunidades e projetos em desenvolvimento back-end, segurança de aplicações e soluções com IA.
 
-**Idiomas**
-- Português — nativo
-- Inglês — B1 (leitura técnica e documentação)
-
-**Atualmente**
-Aprofundando fundamentos de desenvolvimento seguro e boas práticas de
-código, enquanto desenvolvo projetos próprios para consolidar a prática.
 
 **Contato**
 [LinkedIn](https://www.linkedin.com/in/roure-pessoa-21b416412/)
