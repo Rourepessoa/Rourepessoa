@@ -1,4 +1,4 @@
-Sou desenvolvedor back-end com foco em JavaScript, construção de APIs e segurança de aplicações.
+Sou desenvolvedor Full-Stack com foco em JavaScript, construção de APIs e segurança de aplicações.
 
 Gosto de criar sistemas sólidos e bem estruturados, aplicando boas práticas de segurança desde a primeira linha de código. Tenho base em UI/UX, o que me permite entender a aplicação de ponta a ponta e construir back-ends que realmente servem bem a quem usa o produto.
 
